@@ -1,4 +1,4 @@
-# PengalamanBelajar
+# LearningByDoing
 Repository berisi tentang pengalaman belajar saya di dicoding academy
 
 **06 Juni 2021**
