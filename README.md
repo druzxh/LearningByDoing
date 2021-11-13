@@ -8,3 +8,6 @@ Repository berisi tentang pengalaman belajar saya di dicoding academy
 
 **28 Juni 2021**
 - Belajar dasar Git dengan github
+
+**November 2021**
+- Pyqt5
